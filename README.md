@@ -54,4 +54,4 @@ Amaç ileri seviye model kurmaktan çok, oyunun ritmini ve aksiyon bölgelerini 
 
 ## Lisans
 
-Bu repo MIT Lisansı ile paylaşılmıştır. Detaylar için LICENSE dosyasına bakabilirsin.
+Bu repo MIT Lisansı ile paylaşılmıştır.
