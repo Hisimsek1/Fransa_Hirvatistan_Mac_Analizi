@@ -37,7 +37,7 @@ Notebook içinde örnek olarak şu oyuncu ve takımlar için görselleştirmeler
 pip install numpy pandas matplotlib scipy statsbombpy mplsoccer
 ```
 
-## Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır? 
 
 1. Match_Analysis.ipynb dosyasını aç.
 2. Hücreleri üstten alta doğru sırayla çalıştır.
