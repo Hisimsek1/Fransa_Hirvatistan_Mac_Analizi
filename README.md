@@ -3,7 +3,7 @@
 Bu projede 2018 FIFA Dünya Kupası finalini (Fransa - Hırvatistan) StatsBomb verisiyle analiz etmeye çalıştım.
 Lisans seviyesinde, üniversite öğrencisi bakışıyla hazırlanmış bir notebook çalışması. 
 
-Temel fikir şu: maçı sadece skor üzerinden değil, saha içindeki aksiyon dağılımı üzerinden de okumak.
+Temel fikir şu: maçı sadece skor üzerinden değil, saha içindeki aksiyon dağılımı üzerinden de okumak. 
 
 ## Projede Neler Var?
 
