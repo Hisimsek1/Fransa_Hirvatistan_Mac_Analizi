@@ -41,7 +41,7 @@ pip install numpy pandas matplotlib scipy statsbombpy mplsoccer
 
 1. Match_Analysis.ipynb dosyasını aç.
 2. Hücreleri üstten alta doğru sırayla çalıştır.
-3. Veriler çevrim içi çekildiği için internet bağlantısının açık olduğundan emin ol.
+3. Veriler çevrim içi çekildiği için internet bağlantısının açık olduğundan emin ol. 
 
 ## Veri Kaynağı
 
