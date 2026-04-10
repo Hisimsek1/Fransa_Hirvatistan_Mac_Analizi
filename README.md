@@ -16,7 +16,7 @@ Notebook içinde örnek olarak şu oyuncu ve takımlar için görselleştirmeler
 
 - Paul Pogba (France)
 - Luka Modrić (Croatia)
-- France takım analizi
+- France takım analizi 
 - Croatia takım analizi
 
 ## Kullanılan Kütüphaneler
